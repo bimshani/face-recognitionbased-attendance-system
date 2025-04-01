@@ -1,0 +1,5 @@
+/faces
+attendance.csv
+registered_users.csv
+/vgg_model
+*.h5
